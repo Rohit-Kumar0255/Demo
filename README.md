@@ -1,2 +1,2 @@
 # Demo
-<h1>My name is rohit kumar</h1> 
+<h1>My name is Rohit Kumar</h1> 
